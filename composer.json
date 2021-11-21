@@ -1,7 +1,5 @@
 {
   "require": {
-    "php": "^7.3.27",
-    "ext-mcrypt":"*",
-    "ext-mbstring":"*"
+    "php": "^7.3.27"
   }
 }
